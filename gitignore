@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Private / raw data
+data/raw/
+data/private/
+data/original/
+ItemSelectionDetails_*.csv
+*Toast*.csv
+
+# Ignore CSV files by default
+*.csv
+
+# Allow the public synthetic sample used by this repo
+!data/sample_pos_transactions.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Logs / temporary files
+*.log
+*.tmp
