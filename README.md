@@ -2,8 +2,6 @@
 
 A privacy-safe machine learning portfolio project that forecasts **daily menu-item demand** for a small coffee shop. The project demonstrates an end-to-end analytics workflow: data quality cleanup, feature engineering, time-aware validation, model comparison, and a business-facing forecasting demo.
 
-![Model comparison](assets/model_comparison.png)
-
 ## Business problem
 
 Small food businesses must decide how much product to prepare before demand is known. Overproduction creates waste and higher costs, while underproduction can cause stockouts and lost sales. This project estimates next-day demand at the menu-item level to support production and inventory planning.
