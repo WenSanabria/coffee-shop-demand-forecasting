@@ -88,5 +88,4 @@ Python · pandas · NumPy · scikit-learn · data cleaning · fuzzy matching · 
 
 ## About the Author
 
-**Wendy Eidson**  
 Wendy Sanabria is a Data Operations Analyst with experience in Python, PySpark, SQL, Databricks, data automation, analytics, and energy-efficiency data. She is completing an M.S. in Data Science at Colorado School of Mines.
