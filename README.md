@@ -86,7 +86,7 @@ The original business dataset is private and is intentionally excluded. `data/sa
 
 Python · pandas · NumPy · scikit-learn · data cleaning · fuzzy matching · feature engineering · time-series validation · forecasting · model evaluation · reproducible analytics workflows · business problem framing
 
-## Author
+## About the Author
 
 **Wendy Eidson**  
-M.S. Data Science, Colorado School of Mines
+Wendy Sanabria is a Data Operations Analyst with experience in Python, PySpark, SQL, Databricks, data automation, analytics, and energy-efficiency data. She is completing an M.S. in Data Science at Colorado School of Mines.
